@@ -9,7 +9,7 @@ const veterinarioSchema = mongoose.Schema({
      required: true,
      trim:true
    },
-   passaword:{
+   password:{
      type: String,
      required: true
    },
